@@ -1,0 +1,9 @@
+{
+  "name": "nodejs_algorithm",
+  "version": "0.0.0",
+  "description": "Nodejs_Algorithm",
+  "main": "app.js",
+  "author": {
+    "name": "darwin"
+  }
+}

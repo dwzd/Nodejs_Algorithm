@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Nodejs_Algorithm", "Nodejs_Algorithm\Nodejs_Algorithm.njsproj", "{0B2DA301-1F8E-4D84-A77F-7D3DE5368FDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B2DA301-1F8E-4D84-A77F-7D3DE5368FDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B2DA301-1F8E-4D84-A77F-7D3DE5368FDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B2DA301-1F8E-4D84-A77F-7D3DE5368FDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B2DA301-1F8E-4D84-A77F-7D3DE5368FDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {843FA04B-CD26-41D5-B324-D33E71A6FCCB}
+	EndGlobalSection
+EndGlobal
